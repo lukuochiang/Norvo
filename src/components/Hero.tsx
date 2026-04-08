@@ -19,7 +19,7 @@ export default function Hero() {
             </h1>
 
             <p className="text-lg sm:text-xl text-gray-600 mb-8 max-w-xl mx-auto lg:mx-0">
-              Blocksy helps local communities stay connected through neighborhood updates, local 
+              Norvo helps local communities stay connected through neighborhood updates, local
               buy-and-sell, lost & found, community events, and trusted communication — all in one place.
             </p>
 

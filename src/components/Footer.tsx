@@ -2,7 +2,7 @@ import { Heart, Layers, Users, Shield, FileText, ArrowRight } from 'lucide-react
 
 const footerColumns = [
   {
-    title: 'Blocksy',
+    title: 'Norvo',
     content: 'A better way to connect local communities.',
     isLogo: true,
   },
@@ -17,7 +17,7 @@ const footerColumns = [
   {
     title: 'Company',
     links: [
-      { label: 'About', href: '#why-blocksy' },
+      { label: 'About', href: '#why-norvo' },
       { label: 'Contact', href: '#cta' },
       { label: 'Waitlist', href: '#cta' },
     ],
@@ -41,7 +41,7 @@ export default function Footer() {
               {column.isLogo ? (
                 <>
                   <div className="flex items-center gap-2 mb-4">
-                    <img src="/blocksy.svg" alt="Blocksy" className="w-8 h-8" />
+                    <img src="/norvo.svg" alt="Norvo" className="w-8 h-8" />
                     <span className="text-xl font-bold text-white">{column.title}</span>
                   </div>
                   <p className="text-gray-400 max-w-xs">
@@ -83,7 +83,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             <p className="text-gray-500 text-sm">
-              © 2026 Blocksy. All rights reserved.
+              © 2026 Norvo. All rights reserved.
             </p>
             <p className="text-gray-500 text-sm flex items-center gap-1">
               Made with <Heart className="w-4 h-4 text-red-400 fill-current" /> for communities

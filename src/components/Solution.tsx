@@ -32,7 +32,7 @@ export default function Solution() {
             A better way to organize neighborhood life.
           </h2>
           <p className="text-lg text-gray-600">
-            Blocksy brings local conversation, community exchange, and neighborhood participation 
+            Norvo brings local conversation, community exchange, and neighborhood participation
             into one simple and trusted experience.
           </p>
         </div>

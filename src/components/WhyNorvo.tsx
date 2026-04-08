@@ -19,17 +19,17 @@ const points = [
   {
     icon: Users,
     title: 'Community-centered by design',
-    description: 'Blocksy is made to support belonging, participation, and useful local connection.',
+    description: 'Norvo is made to support belonging, participation, and useful local connection.',
   },
 ]
 
-export default function WhyBlocksy() {
+export default function WhyNorvo() {
   return (
-    <section id="why-blocksy" className="py-20 lg:py-28">
+    <section id="why-norvo" className="py-20 lg:py-28">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center max-w-3xl mx-auto mb-16">
           <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-6">
-            Why Blocksy
+            Why Norvo
           </h2>
         </div>
 

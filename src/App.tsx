@@ -5,7 +5,7 @@ import Solution from './components/Solution'
 import Features from './components/Features'
 import ProductPreview from './components/ProductPreview'
 import UseCases from './components/UseCases'
-import WhyBlocksy from './components/WhyBlocksy'
+import WhyNorvo from './components/WhyNorvo'
 import SocialProof from './components/SocialProof'
 import FinalCTA from './components/FinalCTA'
 import FAQ from './components/FAQ'
@@ -22,7 +22,7 @@ function App() {
           <Features />
           <ProductPreview />
           <UseCases />
-          <WhyBlocksy />
+          <WhyNorvo />
           <SocialProof />
           <FinalCTA />
           <FAQ />

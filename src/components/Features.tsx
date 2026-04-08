@@ -24,7 +24,7 @@ const features = [
   {
     icon: Shield,
     title: 'Designed for trust',
-    description: 'Blocksy is built around local relevance, community identity, and safer participation.',
+    description: 'Norvo is built around local relevance, community identity, and safer participation.',
   },
   {
     icon: Smartphone,

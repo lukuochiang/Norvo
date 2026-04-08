@@ -9,11 +9,11 @@ export default function FinalCTA() {
           
           <div className="relative">
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-white mb-6">
-              Bring Blocksy to your community.
+              Bring Norvo to your community.
             </h2>
             
             <p className="text-lg text-green-100 mb-10 max-w-2xl mx-auto">
-              Join the waitlist, request early access, or get in touch to explore how Blocksy 
+              Join the waitlist, request early access, or get in touch to explore how Norvo
               can support your local community.
             </p>
 
@@ -66,7 +66,7 @@ export default function FinalCTA() {
 
           <div className="text-center mb-8">
             <h3 className="text-2xl font-bold text-gray-900 mb-2">
-              Join the Blocksy waitlist
+              Join the Norvo waitlist
             </h3>
             <p className="text-gray-600 text-sm">
               Be the first to hear about product updates, early access, and launch opportunities 

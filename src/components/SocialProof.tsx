@@ -17,7 +17,7 @@ export default function SocialProof() {
           </h2>
           
           <p className="text-lg text-gray-600 mb-10">
-            Blocksy is being built for neighborhoods and local groups that want a clearer, 
+            Norvo is being built for neighborhoods and local groups that want a clearer,
             more trusted, and more useful way to stay connected.
           </p>
 
@@ -42,7 +42,7 @@ export default function SocialProof() {
               ))}
             </div>
             <p className="text-gray-600 italic mb-4">
-              "We can't wait for Blocksy to bring our neighborhood together. Everything else feels too scattered."
+              "We can't wait for Norvo to bring our neighborhood together. Everything else feels too scattered."
             </p>
             <p className="text-sm font-medium text-gray-900">— Sarah, Maple Street Resident</p>
           </div>

@@ -16,7 +16,7 @@ export default function ProductPreview() {
             Designed for everyday community life.
           </h2>
           <p className="text-lg text-gray-600">
-            From neighborhood posts to local exchange and community events, Blocksy helps people discover what matters nearby.
+            From neighborhood posts to local exchange and community events, Norvo helps people discover what matters nearby.
           </p>
         </div>
 
@@ -30,7 +30,7 @@ export default function ProductPreview() {
                   <div className="w-3 h-3 rounded-full bg-green-500" />
                 </div>
                 <div className="flex-1 bg-gray-600 rounded-md px-4 py-1.5 text-gray-400 text-sm">
-                  app.blocksy.community
+                  app.norvo.community
                 </div>
               </div>
               
